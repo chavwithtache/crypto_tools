@@ -1,0 +1,8 @@
+requests==2.18.4
+coinbase==2.1.0
+bitfinex==0.2.6
+binance
+dateparser==0.7.0
+gdax==1.0.6
+aiohttp==3.3.2
+asyncio==3.4.3
