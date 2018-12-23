@@ -1,4 +1,4 @@
-requests==2.18.4
+requests==2.21.0
 coinbase==2.1.0
 bitfinex==0.2.6
 binance
